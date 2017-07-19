@@ -1,0 +1,18 @@
+tap 'homebrew/bundle'
+tap 'peco/peco'
+
+brew 'git'
+brew 'peco'
+brew 'python'
+brew 'ruby-build'
+brew 'rbenv'
+brew 'ruby'
+brew 'vim'
+brew 'wget'
+brew 'mysql'
+
+cask 'google-chrome'
+cask 'atom'
+cask 'intellij-idea'
+cask 'slack'
+cask 'iterm2'
