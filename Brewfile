@@ -12,6 +12,7 @@ brew 'vim'
 brew 'wget'
 brew 'mysql'
 
+cask 'genymotion'
 cask 'the-unarchiver'
 cask 'sequel-pro'
 cask 'android-studio'
