@@ -1,5 +1,6 @@
 tap 'homebrew/bundle'
 
+brew 'carthage'
 brew 'jq'
 brew 'curl'
 brew 'git'
