@@ -13,6 +13,7 @@ brew 'vim'
 brew 'wget'
 brew 'mysql'
 
+cask 'postman'
 cask 'genymotion'
 cask 'the-unarchiver'
 cask 'sequel-pro'
