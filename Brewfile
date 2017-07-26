@@ -1,4 +1,5 @@
 tap 'homebrew/bundle'
+tap 'facebook/fb'
 
 brew 'carthage'
 brew 'jq'
@@ -12,6 +13,8 @@ brew 'ruby'
 brew 'vim'
 brew 'wget'
 brew 'mysql'
+brew 'node'
+brew 'fbsimctl'
 
 cask 'postman'
 cask 'genymotion'
