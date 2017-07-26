@@ -1,5 +1,6 @@
 tap 'homebrew/bundle'
 tap 'facebook/fb'
+tap 'wix/brew'
 
 brew 'carthage'
 brew 'jq'
@@ -15,6 +16,7 @@ brew 'wget'
 brew 'mysql'
 brew 'node'
 brew 'fbsimctl'
+brew 'applesimutils', args: ['HEAD']
 
 cask 'postman'
 cask 'genymotion'
