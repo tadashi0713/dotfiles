@@ -17,6 +17,11 @@ brew 'mysql'
 brew 'node'
 brew 'fbsimctl'
 brew 'applesimutils', args: ['HEAD']
+brew 'chromedriver'
+brew 'ffmpeg'
+brew 'mp4box'
+brew 'libimobiledevice'
+brew 'ideviceinstaller'
 
 cask 'postman'
 cask 'genymotion'
