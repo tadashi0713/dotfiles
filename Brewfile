@@ -1,7 +1,6 @@
 tap 'homebrew/bundle'
 tap 'facebook/fb'
 tap 'wix/brew'
-tap 'homebrew/php'
 
 brew 'awscli'
 brew 'carthage'
@@ -25,6 +24,8 @@ brew 'mp4box'
 brew 'libimobiledevice'
 brew 'ideviceinstaller'
 brew 'composer'
+brew 'homebrew/php/php71'
+brew 'yarn'
 
 cask 'firefox'
 cask 'postman'
