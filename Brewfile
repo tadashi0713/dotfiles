@@ -32,6 +32,7 @@ brew 'kubectl'
 brew 'git'
 brew 'zsh'
 brew 'zsh-completions'
+brew 'go'
 
 cask 'firefox'
 cask 'postman'
