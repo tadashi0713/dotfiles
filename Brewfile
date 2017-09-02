@@ -30,6 +30,8 @@ brew 'yarn'
 brew 'docker-machine-driver-xhyve'
 brew 'kubectl'
 brew 'git'
+brew 'zsh'
+brew 'zsh-completions'
 
 cask 'firefox'
 cask 'postman'
