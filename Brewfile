@@ -37,7 +37,6 @@ brew 'go'
 brew 'tmux'
 
 cask 'google-japanese-ime'
-cask 'google-drive'
 cask 'firefox'
 cask 'postman'
 cask 'genymotion'
