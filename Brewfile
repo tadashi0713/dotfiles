@@ -36,6 +36,7 @@ brew 'zsh-completions'
 brew 'go'
 brew 'tmux'
 
+cask 'docker'
 cask 'google-japanese-ime'
 cask 'firefox'
 cask 'postman'
