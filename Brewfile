@@ -46,6 +46,7 @@ brew 'sqlite'
 brew 'memcached'
 brew 'elasticsearch'
 brew 'nginx'
+brew 'bitrise'
 
 cask 'docker'
 cask 'google-japanese-ime'
