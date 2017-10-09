@@ -47,6 +47,7 @@ brew 'memcached'
 brew 'elasticsearch'
 brew 'nginx'
 
+cask 'tunnelblick'
 cask 'docker'
 cask 'google-japanese-ime'
 cask 'firefox'
