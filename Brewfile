@@ -3,6 +3,7 @@ tap 'facebook/fb'
 tap 'wix/brew'
 tap 'homebrew/php'
 
+brew 'tree'
 brew 'awscli'
 brew 'carthage'
 brew 'jq'
