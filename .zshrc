@@ -1,6 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH="$HOME/.rbenv/shims:$PATH"
+alias be="bundle exec"
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/tadashi0713/.oh-my-zsh
