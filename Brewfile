@@ -48,6 +48,7 @@ brew 'memcached'
 brew 'elasticsearch'
 brew 'nginx'
 
+cask 'visual-studio-code'
 cask 'tunnelblick'
 cask 'docker'
 cask 'google-japanese-ime'
