@@ -3,6 +3,8 @@ tap 'facebook/fb'
 tap 'wix/brew'
 tap 'homebrew/php'
 
+brew 'pyenv'
+brew 'pyenv-virtualenv'
 brew 'nodebrew'
 brew 'tree'
 brew 'awscli'
