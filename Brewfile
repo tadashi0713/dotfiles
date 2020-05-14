@@ -24,5 +24,5 @@ cask 'the-unarchiver'
 cask 'google-chrome'
 cask 'google-cloud-sdk'
 cask 'chromedriver'
-cask "google-japanese-ime"
-cask "hyper"
+cask 'google-japanese-ime'
+cask 'hyper'
