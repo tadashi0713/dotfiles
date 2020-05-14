@@ -149,7 +149,11 @@ module.exports = {
     plugins: [
       'hyper-material-theme',
       'hyper-search',
-      'hyper-statusline'
+      'hyper-statusline',
+      'hyper-pane',
+      'hypercwd',
+      'hyper-tab-icons',
+      'hyperborder'
     ],
   
     // in development, you can create a directory under
