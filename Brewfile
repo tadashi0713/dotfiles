@@ -13,7 +13,6 @@ brew 'rbenv'
 brew 'vim'
 brew 'wget'
 brew 'mysql'
-brew 'yarn'
 brew 'kubectl'
 brew 'starship'
 
