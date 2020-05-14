@@ -15,6 +15,7 @@ brew 'wget'
 brew 'mysql'
 brew 'yarn'
 brew 'kubectl'
+brew 'starship'
 
 cask 'visual-studio-code'
 cask 'docker'
