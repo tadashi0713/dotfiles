@@ -16,6 +16,7 @@ brew 'mysql'
 brew 'kubectl'
 brew 'starship'
 brew 'java'
+brew 'mas'
 
 cask 'visual-studio-code'
 cask 'docker'
@@ -28,3 +29,5 @@ cask 'chromedriver'
 cask 'google-japanese-ime'
 cask 'hyper'
 cask 'intellij-idea'
+
+mas "com.apple.dt.Xcode", id: 497799835
