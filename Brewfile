@@ -29,5 +29,6 @@ cask 'chromedriver'
 cask 'google-japanese-ime'
 cask 'hyper'
 cask 'intellij-idea'
+cask 'skitch'
 
 mas "com.apple.dt.Xcode", id: 497799835
