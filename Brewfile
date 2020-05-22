@@ -30,5 +30,6 @@ cask 'google-japanese-ime'
 cask 'hyper'
 cask 'intellij-idea'
 cask 'skitch'
+cask 'zoomus'
 
 mas "com.apple.dt.Xcode", id: 497799835
