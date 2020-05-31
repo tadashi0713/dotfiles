@@ -369,6 +369,12 @@
         "options": {
           "full_name": "raindropio"
         }
+      },
+      "iterm2": {
+        "version": "3.3.10",
+        "options": {
+          "full_name": "iterm2"
+        }
       }
     },
     "mas": {

@@ -27,10 +27,10 @@ cask 'google-chrome'
 cask 'google-cloud-sdk'
 cask 'chromedriver'
 cask 'google-japanese-ime'
-cask 'hyper'
 cask 'intellij-idea'
 cask 'skitch'
 cask 'zoomus'
 cask 'raindropio'
+cask 'iterm2'
 
 mas "com.apple.dt.Xcode", id: 497799835
