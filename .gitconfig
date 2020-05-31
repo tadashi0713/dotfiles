@@ -1,0 +1,6 @@
+[user]
+        name = "Tadashi Nemoto"
+        email = tadashi.nemoto0713@gmail.com
+
+[alias]
+        delete-merged-branches = !git branch --merged | grep -v \\* | xargs -I % git branch -d %
