@@ -31,5 +31,6 @@ cask 'hyper'
 cask 'intellij-idea'
 cask 'skitch'
 cask 'zoomus'
+cask 'raindropio'
 
 mas "com.apple.dt.Xcode", id: 497799835
