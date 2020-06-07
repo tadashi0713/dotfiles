@@ -17,6 +17,7 @@ brew 'kubectl'
 brew 'starship'
 brew 'java'
 brew 'mas'
+brew 'guetzli'
 
 cask 'visual-studio-code'
 cask 'docker'
