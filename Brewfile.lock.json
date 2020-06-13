@@ -429,6 +429,12 @@
         "options": {
           "full_name": "iterm2"
         }
+      },
+      "notion": {
+        "version": "2.0.7",
+        "options": {
+          "full_name": "notion"
+        }
       }
     },
     "mas": {
