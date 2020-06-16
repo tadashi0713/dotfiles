@@ -19,6 +19,7 @@ brew 'java'
 brew 'mas'
 brew 'guetzli'
 brew 'nomad'
+brew 'carthage'
 
 cask 'visual-studio-code'
 cask 'docker'
@@ -32,5 +33,6 @@ cask 'intellij-idea'
 cask 'skitch'
 cask 'zoomus'
 cask 'iterm2'
+cask 'java'
 
 mas "com.apple.dt.Xcode", id: 497799835
