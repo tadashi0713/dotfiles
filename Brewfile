@@ -20,6 +20,7 @@ brew 'mas'
 brew 'guetzli'
 brew 'nomad'
 brew 'carthage'
+brew 'grafana'
 
 cask 'visual-studio-code'
 cask 'docker'
