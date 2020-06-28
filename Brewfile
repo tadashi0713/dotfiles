@@ -21,6 +21,7 @@ brew 'guetzli'
 brew 'nomad'
 brew 'carthage'
 brew 'grafana'
+brew 'xcodegen'
 
 cask 'visual-studio-code'
 cask 'docker'
