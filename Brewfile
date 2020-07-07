@@ -22,6 +22,8 @@ brew 'nomad'
 brew 'carthage'
 brew 'grafana'
 brew 'xcodegen'
+brew 'awscli'
+brew 'pipenv'
 
 cask 'visual-studio-code'
 cask 'docker'
