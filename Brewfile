@@ -25,6 +25,7 @@ brew 'xcodegen'
 brew 'awscli'
 brew 'pipenv'
 brew 'kubectx'
+brew 'helm'
 
 cask 'visual-studio-code'
 cask 'docker'
