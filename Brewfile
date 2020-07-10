@@ -24,6 +24,7 @@ brew 'grafana'
 brew 'xcodegen'
 brew 'awscli'
 brew 'pipenv'
+brew 'kubectx'
 
 cask 'visual-studio-code'
 cask 'docker'
