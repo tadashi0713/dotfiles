@@ -26,6 +26,8 @@ brew 'awscli'
 brew 'pipenv'
 brew 'kubectx'
 brew 'helm'
+brew 'consul'
+brew 'vault'
 
 cask 'visual-studio-code'
 cask 'docker'
