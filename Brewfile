@@ -30,7 +30,6 @@ brew 'helm'
 brew 'consul'
 brew 'vault'
 brew 'dart'
-brew 'flutter'
 
 cask 'visual-studio-code'
 cask 'docker'
