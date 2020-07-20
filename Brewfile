@@ -1,4 +1,5 @@
 tap 'homebrew/bundle'
+tap 'dart-lang/dart'
 
 brew 'pyenv'
 brew 'pyenv-virtualenv'
@@ -28,6 +29,8 @@ brew 'kubectx'
 brew 'helm'
 brew 'consul'
 brew 'vault'
+brew 'dart'
+brew 'flutter'
 
 cask 'visual-studio-code'
 cask 'docker'
