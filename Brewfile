@@ -46,5 +46,6 @@ cask 'zoomus'
 cask 'iterm2'
 cask 'java'
 cask 'dotnet-sdk'
+cask 'ngrok'
 
 mas "com.apple.dt.Xcode", id: 497799835
