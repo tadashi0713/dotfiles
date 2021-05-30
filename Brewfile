@@ -1,4 +1,5 @@
 tap 'homebrew/bundle'
+tap 'robotsandpencils/made'
 
 brew 'nodebrew'
 brew 'tree'
@@ -12,6 +13,7 @@ brew 'wget'
 brew 'mysql'
 brew 'kubectl'
 brew 'starship'
+brew 'xcodes'
 
 cask 'visual-studio-code'
 cask 'docker'
@@ -22,4 +24,3 @@ cask 'skitch'
 cask 'iterm2'
 cask 'zoom'
 
-mas "com.apple.dt.Xcode", id: 497799835
