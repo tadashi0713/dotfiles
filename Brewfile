@@ -12,6 +12,7 @@ brew 'wget'
 brew 'mysql'
 brew 'kubectl'
 brew 'starship'
+brew 'zoom'
 
 cask 'visual-studio-code'
 cask 'docker'
@@ -19,7 +20,6 @@ cask 'the-unarchiver'
 cask 'google-chrome'
 cask 'google-japanese-ime'
 cask 'skitch'
-cask 'zoomus'
 cask 'iterm2'
 
 mas "com.apple.dt.Xcode", id: 497799835
