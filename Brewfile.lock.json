@@ -661,6 +661,18 @@
         "options": {
           "full_name": "dotnet-sdk"
         }
+      },
+      "rambox": {
+        "version": "0.7.7",
+        "options": {
+          "full_name": "rambox"
+        }
+      },
+      "biscuit": {
+        "version": "1.2.20",
+        "options": {
+          "full_name": "biscuit"
+        }
       }
     },
     "mas": {
@@ -680,7 +692,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.1.9-64-geeef3f4",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "50ad0c1b7fc7c9fff2285775c2fc1f044724d33b",
+        "Homebrew/homebrew-core": "b9ef7b130768b0ffc89b40a97015c46a8a5efaee",
         "CLT": "12.5.0.0.1.1617976050",
         "Xcode": "12.5",
         "macOS": "11.3.1"

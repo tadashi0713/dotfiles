@@ -23,4 +23,5 @@ cask 'google-japanese-ime'
 cask 'skitch'
 cask 'iterm2'
 cask 'zoom'
+cask 'biscuit'
 
