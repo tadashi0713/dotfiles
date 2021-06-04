@@ -11,6 +11,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-      path: 'dotfiles'
     - name: install.sh
       run: ./install.sh
