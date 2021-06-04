@@ -10,7 +10,7 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - run: pwd
     - uses: actions/checkout@v2
+      path: '~/'
     - name: install.sh
       run: ./install.sh
