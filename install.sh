@@ -8,5 +8,5 @@ which brew >/dev/null 2>&1 || /usr/bin/ruby -e "$(curl -fsSL https://raw.githubu
 # brew bundle
 
 # symlink dotfiles
-ln -s .zshrc ~/.zshrc
-ln -s .gitconfig ~/.gitconfig
+ln -nfs ~/dotfiles/.zshrc ~/.zshrc
+ln -nfs ~/dotfiles/.gitconfig ~/.gitconfig
