@@ -5,8 +5,8 @@ git submodule update --init --recursive
 
 # homebrew
 which brew >/dev/null 2>&1 || /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew bundle
+# brew bundle
 
 # symlink dotfiles
-ln -s .zshrc ~/.zshrc 2>/dev/null
-ln -s .gitconfig ~/.gitconfig 2>/dev/null
+ln -s .zshrc ~/.zshrc
+ln -s .gitconfig ~/.gitconfig
