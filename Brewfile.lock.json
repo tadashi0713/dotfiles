@@ -673,6 +673,12 @@
         "options": {
           "full_name": "biscuit"
         }
+      },
+      "authy": {
+        "version": "1.8.3",
+        "options": {
+          "full_name": "authy"
+        }
       }
     },
     "mas": {
@@ -692,10 +698,10 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.1.9",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "dd55c0e5f339b833a8e5592cab06c8dc7077b693",
-        "CLT": "12.5.0.0.1.1617976050",
+        "Homebrew/homebrew-core": "b68a20a099cc511ee6df038b3ef46bd4793b3cf7",
+        "CLT": "12.5.0.22.9",
         "Xcode": "12.5",
-        "macOS": "11.3.1"
+        "macOS": "11.4"
       }
     }
   }
