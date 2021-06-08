@@ -14,6 +14,7 @@ brew 'mysql'
 brew 'kubectl'
 brew 'starship'
 brew 'xcodes'
+brew 'gpg'
 
 cask 'visual-studio-code'
 cask 'docker'
