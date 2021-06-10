@@ -1,5 +1,6 @@
 tap 'homebrew/bundle'
 tap 'robotsandpencils/made'
+tap 'weaveworks/tap'
 
 brew 'nodebrew'
 brew 'tree'
@@ -17,6 +18,7 @@ brew 'xcodes'
 brew 'gpg'
 brew 'terraform'
 brew 'awscli'
+brew 'weaveworks/tap/eksctl'
 
 cask 'visual-studio-code'
 cask 'docker'

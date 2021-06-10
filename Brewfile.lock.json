@@ -6,6 +6,9 @@
       },
       "robotsandpencils/made": {
         "revision": "a5051d178a1ae37e983accd90fd80c9062e3c6e9"
+      },
+      "weaveworks/tap": {
+        "revision": "6f0bc3303f6e6249f81f796733f4d049cb05a976"
       }
     },
     "brew": {
@@ -638,6 +641,10 @@
             }
           }
         }
+      },
+      "weaveworks/tap/eksctl": {
+        "version": "0.52.0",
+        "bottle": false
       }
     },
     "cask": {
