@@ -645,6 +645,20 @@
       "weaveworks/tap/eksctl": {
         "version": "0.52.0",
         "bottle": false
+      },
+      "kubectx": {
+        "version": "0.9.3",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "all": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/kubectx/blobs/sha256:30c0b39d23e542bc936994a8c1a47705f0205e42e59cb043adaed21f3e992efa",
+              "sha256": "30c0b39d23e542bc936994a8c1a47705f0205e42e59cb043adaed21f3e992efa"
+            }
+          }
+        }
       }
     },
     "cask": {

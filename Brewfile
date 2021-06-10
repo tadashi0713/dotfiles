@@ -19,6 +19,7 @@ brew 'gpg'
 brew 'terraform'
 brew 'awscli'
 brew 'weaveworks/tap/eksctl'
+brew 'kubectx'
 
 cask 'visual-studio-code'
 cask 'docker'
