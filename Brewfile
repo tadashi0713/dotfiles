@@ -16,6 +16,7 @@ brew 'starship'
 brew 'xcodes'
 brew 'gpg'
 brew 'terraform'
+brew 'awscli'
 
 cask 'visual-studio-code'
 cask 'docker'
