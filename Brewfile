@@ -20,6 +20,7 @@ brew 'terraform'
 brew 'awscli'
 brew 'weaveworks/tap/eksctl'
 brew 'kubectx'
+brew 'helm'
 
 cask 'visual-studio-code'
 cask 'docker'
