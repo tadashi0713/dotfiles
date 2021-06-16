@@ -22,6 +22,7 @@ brew 'kubectx'
 brew 'helm'
 brew 'azure-cli'
 brew 'tfenv'
+brew 'circleci'
 
 cask 'visual-studio-code'
 cask 'docker'
