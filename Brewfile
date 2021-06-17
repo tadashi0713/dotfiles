@@ -24,6 +24,7 @@ brew 'azure-cli'
 brew 'tfenv'
 brew 'circleci'
 brew 'openssl'
+brew 'certbot'
 
 cask 'visual-studio-code'
 cask 'docker'
