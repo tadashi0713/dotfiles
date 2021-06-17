@@ -25,6 +25,7 @@ brew 'tfenv'
 brew 'circleci'
 brew 'openssl'
 brew 'certbot'
+brew 'pyenv'
 
 cask 'visual-studio-code'
 cask 'docker'
