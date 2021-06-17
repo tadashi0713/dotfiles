@@ -23,6 +23,7 @@ brew 'helm'
 brew 'azure-cli'
 brew 'tfenv'
 brew 'circleci'
+brew 'openssl'
 
 cask 'visual-studio-code'
 cask 'docker'
