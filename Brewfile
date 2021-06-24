@@ -26,6 +26,7 @@ brew 'circleci'
 brew 'openssl'
 brew 'certbot'
 brew 'pyenv'
+brew 'aws-cdk'
 
 cask 'visual-studio-code'
 cask 'docker'
