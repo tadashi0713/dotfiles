@@ -10,3 +10,4 @@ brew bundle
 # symlink dotfiles
 ln -nfs ~/dotfiles/.zshrc ~/.zshrc
 ln -nfs ~/dotfiles/.gitconfig ~/.gitconfig
+sudo ln -nfs $(brew --prefix)/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
