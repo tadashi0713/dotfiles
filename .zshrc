@@ -23,3 +23,6 @@ eval "$(pyenv init --path)"
 eval "$(rbenv init -)"
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
+# flutter
+export PATH="$PATH":"/usr/local/Caskroom/flutter/2.2.2/flutter/.pub-cache/bin"
