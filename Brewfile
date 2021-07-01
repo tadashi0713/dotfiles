@@ -27,7 +27,6 @@ brew 'openssl'
 brew 'certbot'
 brew 'pyenv'
 brew 'aws-cdk'
-brew 'cocoapods'
 brew 'firebase-cli'
 brew 'java'
 
