@@ -29,6 +29,7 @@ brew 'pyenv'
 brew 'aws-cdk'
 brew 'firebase-cli'
 brew 'java'
+brew 'coreutils'
 
 cask 'visual-studio-code'
 cask 'docker'
