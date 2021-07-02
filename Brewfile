@@ -30,6 +30,7 @@ brew 'aws-cdk'
 brew 'firebase-cli'
 brew 'java'
 brew 'coreutils'
+brew 'cmake'
 
 cask 'visual-studio-code'
 cask 'docker'
