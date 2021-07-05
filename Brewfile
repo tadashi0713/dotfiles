@@ -28,7 +28,6 @@ brew 'certbot'
 brew 'pyenv'
 brew 'aws-cdk'
 brew 'firebase-cli'
-brew 'java'
 brew 'coreutils'
 brew 'cmake'
 
