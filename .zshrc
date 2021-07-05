@@ -26,3 +26,7 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 
 # flutter
 export PATH="$PATH":"/usr/local/Caskroom/flutter/2.2.2/flutter/.pub-cache/bin"
+
+# Android
+export PATH=$PATH:/Applications/"Android Studio.app"/Contents/jre/jdk/Contents/Home/bin
+export JAVA_HOME=/Applications/"Android Studio.app"/Contents/jre/jdk/Contents/Home
