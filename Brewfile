@@ -1,6 +1,7 @@
 tap 'homebrew/bundle'
 tap 'robotsandpencils/made'
 tap 'weaveworks/tap'
+tap 'hashicorp/tap'
 
 brew 'nodebrew'
 brew 'tree'
@@ -30,6 +31,7 @@ brew 'aws-cdk'
 brew 'firebase-cli'
 brew 'coreutils'
 brew 'cmake'
+brew 'hashicorp/tap/waypoint'
 
 cask 'visual-studio-code'
 cask 'docker'
