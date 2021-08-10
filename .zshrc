@@ -30,8 +30,8 @@ export PATH="$HOME/development/flutter/bin:$PATH"
 # Java & Android
 # export JAVA_HOME=`/usr/libexec/java_home -v 16.0`
 export JAVA_HOME=/Applications/"Android Studio.app"/Contents/jre/jdk/Contents/Home
-
 export PATH=$PATH:/Applications/"Android Studio.app"/Contents/jre/jdk/Contents/Home/bin
+export PATH="$HOME/Library/Android/sdk/platform-tools:$PATH"
 
 path_append ()  { path_remove $1; export PATH="$PATH:$1"; }
 path_prepend () { path_remove $1; export PATH="$1:$PATH"; }
