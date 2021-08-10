@@ -27,6 +27,12 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 # flutter
 export PATH="$HOME/development/flutter/bin:$PATH"
 
+# Java & Android
+# export JAVA_HOME=`/usr/libexec/java_home -v 16.0`
+export JAVA_HOME=/Applications/"Android Studio.app"/Contents/jre/jdk/Contents/Home
+
+export PATH=$PATH:/Applications/"Android Studio.app"/Contents/jre/jdk/Contents/Home/bin
+
 path_append ()  { path_remove $1; export PATH="$PATH:$1"; }
 path_prepend () { path_remove $1; export PATH="$1:$PATH"; }
 path_remove ()  { export PATH=`echo -n $PATH | awk -v RS=: -v ORS=: '$0 != "'$1'"' | sed 's/:$//'`; }

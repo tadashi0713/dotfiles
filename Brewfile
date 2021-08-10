@@ -33,7 +33,6 @@ brew 'firebase-cli'
 brew 'coreutils'
 brew 'cmake'
 brew 'hashicorp/tap/waypoint'
-brew 'jenv'
 brew 'java'
 
 cask 'visual-studio-code'
