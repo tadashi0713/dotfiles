@@ -1409,6 +1409,12 @@
         "options": {
           "full_name": "intellij-idea-ce"
         }
+      },
+      "postman": {
+        "version": "8.10.0",
+        "options": {
+          "full_name": "postman"
+        }
       }
     },
     "mas": {
@@ -1428,7 +1434,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.2.8",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "671a07a581c853394b9ff6d004fc861d73c80adc",
+        "Homebrew/homebrew-core": "2e44b98ff8be62fb908e902f4287348dd8fe4275",
         "CLT": "12.5.0.22.9",
         "Xcode": "12.5",
         "macOS": "11.4"
