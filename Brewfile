@@ -36,6 +36,7 @@ brew 'cmake'
 brew 'hashicorp/tap/waypoint'
 brew 'java'
 brew 'applesimutils'
+brew 'postgresql'
 
 cask 'visual-studio-code'
 cask 'docker'
