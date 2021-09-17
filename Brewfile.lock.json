@@ -15,6 +15,9 @@
       },
       "wix/brew": {
         "revision": "d0d1ea5f664121b7490b2448b8eb42e44e8506b2"
+      },
+      "heroku/brew": {
+        "revision": "ce8029690ca0a114882861d865f787e83ec04936"
       }
     },
     "brew": {
@@ -1274,6 +1277,10 @@
             }
           }
         }
+      },
+      "heroku": {
+        "version": "7.59.0",
+        "bottle": false
       }
     },
     "cask": {
@@ -1466,7 +1473,7 @@
         "Homebrew/homebrew-core": "0f7cf569fc522950ffc9ee31f828bd466e96b7e9",
         "CLT": "12.5.0.22.9",
         "Xcode": "12.5",
-        "macOS": "11.4"
+        "macOS": "11.6"
       }
     }
   }
