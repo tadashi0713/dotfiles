@@ -41,6 +41,7 @@ brew 'postgresql'
 brew 'heroku'
 brew 'packer'
 brew 'ansible'
+brew 'tfenv'
 
 cask 'visual-studio-code'
 cask 'docker'
