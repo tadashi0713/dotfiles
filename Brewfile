@@ -39,6 +39,8 @@ brew 'java'
 brew 'applesimutils'
 brew 'postgresql'
 brew 'heroku'
+brew 'packer'
+brew 'ansible'
 
 cask 'visual-studio-code'
 cask 'docker'
