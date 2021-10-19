@@ -42,6 +42,7 @@ brew 'heroku'
 brew 'packer'
 brew 'ansible'
 brew 'tfenv'
+brew 'composer'
 
 cask 'visual-studio-code'
 cask 'docker'
