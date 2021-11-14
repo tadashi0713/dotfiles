@@ -43,6 +43,7 @@ brew 'packer'
 brew 'ansible'
 brew 'tfenv'
 brew 'composer'
+brew 'vercel-cli'
 
 cask 'visual-studio-code'
 cask 'docker'
