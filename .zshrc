@@ -51,3 +51,6 @@ export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 # Please make sure this block is at the end of this file.
 [ -s ~/.fig/fig.sh ] && source ~/.fig/fig.sh
 #### END FIG ENV VARIABLES ####
+
+# Secrets
+export FIREBASE_TOKEN=$(security find-generic-password -s "Firebase Token" -w)
