@@ -45,6 +45,7 @@ brew 'tfenv'
 brew 'composer'
 brew 'vercel-cli'
 brew 'imagemagick'
+brew 'yq'
 
 cask 'visual-studio-code'
 cask 'docker'
