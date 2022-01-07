@@ -46,6 +46,7 @@ brew 'composer'
 brew 'vercel-cli'
 brew 'imagemagick'
 brew 'yq'
+brew 'gh'
 
 cask 'visual-studio-code'
 cask 'docker'
