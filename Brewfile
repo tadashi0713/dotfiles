@@ -54,6 +54,8 @@ brew 'checkov'
 brew 'pre-commit'
 brew 'gawk'
 brew 'coreutils'
+brew 'terrascan'
+brew 'infracost'
 
 cask 'visual-studio-code'
 cask 'docker'
