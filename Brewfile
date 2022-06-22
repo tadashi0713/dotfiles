@@ -56,6 +56,7 @@ brew 'gawk'
 brew 'coreutils'
 brew 'terrascan'
 brew 'infracost'
+brew 'hadolint'
 
 cask 'visual-studio-code'
 cask 'docker'
