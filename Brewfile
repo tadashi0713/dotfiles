@@ -57,6 +57,7 @@ brew 'coreutils'
 brew 'terrascan'
 brew 'infracost'
 brew 'hadolint'
+brew 'aria2'
 
 cask 'visual-studio-code'
 cask 'docker'
