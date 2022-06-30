@@ -58,6 +58,7 @@ brew 'terrascan'
 brew 'infracost'
 brew 'hadolint'
 brew 'aria2'
+brew 'kustomize'
 
 cask 'visual-studio-code'
 cask 'docker'
