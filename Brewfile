@@ -59,6 +59,7 @@ brew 'infracost'
 brew 'hadolint'
 brew 'aria2'
 brew 'kustomize'
+brew 'yamllint'
 
 cask 'visual-studio-code'
 cask 'docker'
