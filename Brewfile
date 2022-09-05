@@ -60,6 +60,7 @@ brew 'hadolint'
 brew 'aria2'
 brew 'kustomize'
 brew 'yamllint'
+brew 'git-lfs'
 
 cask 'visual-studio-code'
 cask 'docker'
