@@ -61,6 +61,7 @@ brew 'aria2'
 brew 'kustomize'
 brew 'yamllint'
 brew 'git-lfs'
+brew 'bazel'
 
 cask 'visual-studio-code'
 cask 'docker'
