@@ -1,5 +1,3 @@
-# Fig pre block. Keep at the top of this file.
-[[ -f "$HOME/.fig/shell/zshrc.pre.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.pre.zsh"
 # Use Japanese
 export LANG=ja_JP.UTF-8
 
@@ -47,6 +45,3 @@ export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 
 # Secrets
 export FIREBASE_TOKEN=$(security find-generic-password -s "Firebase Token" -w)
-
-# Fig post block. Keep at the bottom of this file.
-[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
