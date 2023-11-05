@@ -62,6 +62,8 @@ brew 'kustomize'
 brew 'yamllint'
 brew 'git-lfs'
 brew 'bazel'
+brew 'shellcheck'
+brew 'qrencode'
 
 cask 'visual-studio-code'
 cask 'docker'
