@@ -64,6 +64,7 @@ brew 'git-lfs'
 brew 'bazel'
 brew 'shellcheck'
 brew 'qrencode'
+brew 'scrcpy'
 
 cask 'visual-studio-code'
 cask 'docker'
